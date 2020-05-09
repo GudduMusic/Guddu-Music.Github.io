@@ -1,0 +1,39 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	font-family: 'Montserrat', sans-sarif;
+
+}
+.box
+{
+	background: linear-gradient(rgba(0,221,229,0.8),rgba(0.221,229,0.7)),url(8.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+	position: relative;
+}
+.tagline
+{
+	position: absolute;
+	top: 50%;
+	left: 900%;
+	transform: translate(-50%,-50%);
+}
+h1
+{
+	font-size: 5rem;
+	color: #fff;
+
+}
+p
+{
+	text-align: center;
+	color: #ddd;
+}
+.mbtn
+{
+
+
+
+}
